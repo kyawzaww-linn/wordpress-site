@@ -1,0 +1,15 @@
+ECHO is on.
+# Ignore WordPress core files
+/wp-admin/
+/wp-includes/
+
+/wp-content/uploads/
+/wp-content/cache/
+
+/wp-config.php
+/wp-config-sample.php
+.htaccess
+
+# Ignore OS and IDE generated files
+.DS_Store
+Thumbs.db
