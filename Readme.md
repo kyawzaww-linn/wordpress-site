@@ -1,13 +1,14 @@
 # WordPress Child Theme Development and Deployment
 
-Welcome to the **WordPress Child Theme Development** project for [Neve](https://themeisle.com/themes/neve/)! 🎉 This project is all about customizing the Neve theme and deploying the website on AWS. Whether you're the first developer here or someone coming in later, this documentation will guide you through theme development and deployment.
+Welcome to the **WordPress Child Theme Development** project for [Neve](https://themeisle.com/themes/neve/)! 🎉 This project is all about customizing the Neve theme, integrating useful plugins, and deploying the website on AWS. Whether you're the first developer here or someone joining later, this documentation will guide you through the development and deployment process.
 
 ## Key Features
 - 🎨 Custom Child Theme based on Neve
 - 📱 Fully responsive across mobile, tablet, and desktop
 - 🎨 Navy blue (#000080) and white (#FFFFFF) color scheme
-- 🗓️ Custom-coded event calendar (no plugins here!)
-- 🌐 Hosted on AWS EC2 with a LAMP stack
+- 🗓️ Event Calendar for interactive event scheduling
+- 🖼️ SmartSlider for a nice image slide on the homepage
+- 🌐 Hosted on AWS EC2 using Docker for local development
 
 ---
 
