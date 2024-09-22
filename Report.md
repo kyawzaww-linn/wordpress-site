@@ -23,17 +23,22 @@ The main goal of this project was to create a **custom child theme** for the [Ne
    - All theme development code, documentation, and relevant files were version-controlled, demonstrating my ability to work collaboratively and manage codebases in a professional environment.
    - Pushed changes to a GitHub repository: [GitHub Repo](https://github.com/kyawzaww-linn/wordpress-site).
 
-### 3. **AWS EC2 (Amazon Web Services)**
-   - Hosted the WordPress site on an AWS EC2 instance running a **LAMP stack** (Linux, Apache, MySQL, PHP).
-   - Configured the server to deploy WordPress, ensuring the production environment was stable and scalable.
-   - Gained experience in cloud computing and server management, highlighting my ability to work with cloud technologies.
+### 3. **Docker for Local Development**
+   - Used Docker to set up a local development environment replicating a LAMP stack (Linux, Apache, MySQL, PHP) without manual configuration.
+   - Created a **docker-compose.yml** file to manage the containers for the WordPress and MySQL services, ensuring a consistent and reproducible development environment.
+   - Docker allowed me to test changes locally before deploying to AWS EC2.
 
-### 4. **HTML, CSS, PHP, and JavaScript**
+### 4. **AWS EC2 (Amazon Web Services)**
+   - Hosted the WordPress site on an AWS EC2 instance running a **LAMP stack** for the production environment.
+   - Deployed the WordPress site using SSH to access the EC2 instance and Git to pull the latest changes from the GitHub repository.
+   - Gained experience in cloud computing and server management, ensuring a stable and scalable production environment.
+
+### 5. **HTML, CSS, PHP, and JavaScript**
    - Developed both front-end and back-end aspects of the website using these core web technologies.
    - Customized **SmartSlider** and **Event Calendar** plugins to fit the client’s branding.
    - Implemented custom CSS to match the navy blue (#000080) and white (#FFFFFF) color scheme.
 
-### 5. **Documentation (Markdown)**
+### 6. **Documentation (Markdown)**
    - Wrote professional documentation in **Markdown** for the project's `README.md` and `REPORT.md`.
    - Ensured that documentation was clear, professional, and suitable for new developers joining the project.
 
@@ -46,20 +51,25 @@ The main goal of this project was to create a **custom child theme** for the [Ne
    - Successfully integrated plugins (SmartSlider, Event Calendar) to enhance website functionality and user experience.
    - Strengthened my knowledge of **WordPress templating**, styling, and the use of plugins to build dynamic pages.
 
-### 2. **Cloud Deployment and Server Management**
+### 2. **Local Development with Docker**
+   - Set up and managed a local development environment using **Docker** and **Docker Compose**.
+   - Developed and tested the child theme within a Docker container, simulating the production environment.
+   - This setup ensured consistency between development and production environments, reducing the risk of deployment issues.
+
+### 3. **Cloud Deployment and Server Management**
    - Gained practical experience in setting up and managing an AWS EC2 instance, deploying a fully functional WordPress website on the cloud.
-   - Configured Apache, MySQL, and PHP on a Linux server, setting up a reliable LAMP stack environment.
+   - Configured Apache, MySQL, and PHP on a Linux server, setting up a reliable LAMP stack environment for the production site.
    - Enhanced my ability to troubleshoot server issues and ensure uptime for production websites.
 
-### 3. **Version Control with Git**
+### 4. **Version Control with Git**
    - Developed proficiency in using Git for version control, managing a project repository on GitHub, and implementing best practices for committing, branching, and merging code.
    - Demonstrated the ability to work collaboratively with version control, making my work ready for real-world web development teams.
 
-### 4. **Web Development Skills (HTML, CSS, PHP, JavaScript)**
+### 5. **Web Development Skills (HTML, CSS, PHP, JavaScript)**
    - Gained experience in both front-end and back-end development using HTML, CSS, PHP, and JavaScript.
    - Learned to customize WordPress themes and plugins, building visually appealing and highly functional websites.
 
-### 5. **Documentation and Reporting**
+### 6. **Documentation and Reporting**
    - Gained experience in writing industry-standard documentation, ensuring that the project is well-documented and easy to maintain for future developers.
    - Developed my ability to communicate complex technical information in a clear and concise way, suitable for both technical and non-technical audiences.
 
@@ -67,7 +77,7 @@ The main goal of this project was to create a **custom child theme** for the [Ne
 
 ## Employability and Future Outlook
 
-This project provided a comprehensive learning experience in **web development, plugin integration, version control, cloud deployment**, and **WordPress customization**. The hands-on experience in building and deploying a WordPress site has equipped me with the following valuable skills for future roles:
+This project provided a comprehensive learning experience in **web development, plugin integration, Docker-based local development, version control, cloud deployment**, and **WordPress customization**. The hands-on experience in building and deploying a WordPress site has equipped me with the following valuable skills for future roles:
 
 - **Web Developer**: I am ready to take on roles that involve creating and maintaining websites, especially those built on WordPress or similar content management systems.
 - **Cloud Engineer**: My ability to deploy applications on cloud platforms such as AWS makes me a strong candidate for roles requiring cloud infrastructure setup and maintenance.
@@ -83,6 +93,6 @@ Through this project, I have demonstrated my ability to create and deploy a cust
 
 Feel free to check out the project repository for more details: [GitHub Repository](https://github.com/kyawzaww-linn/wordpress-site).
 
-For inquiries or further details, please contact me at [kyawzawwlinn279@gmail.com].
+For inquiries or further details, please contact me at [kyawzawwlinn279@.com].
 
 ---
