@@ -45,7 +45,7 @@ Want to tinker around with the theme? Here’s what to do:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-repo/wordpress-site.git
+   git clone https://github.com/kyawzaww-linn/wordpress-site.git
    ```
 
 2. Create a new branch for your changes:
@@ -113,6 +113,6 @@ This project is hosted on AWS EC2 using a LAMP stack. Here’s how you can get i
 
 ## Conclusion
 
-And there you have it—everything you need to develop and deploy this WordPress child theme like a pro! 💪 If you run into any issues or just want to say hi, feel free to reach out to [email@example.com].
+And there you have it—everything you need to develop and deploy this WordPress child theme like a pro! 💪 If you run into any issues or just want to say hi, feel free to reach out to [kyawzawwlinn279@gmail.com].
 
 Happy developing! 🚀✨
